@@ -1,5 +1,5 @@
 <a target="_blank" href="https://discord.com/oauth2/authorize?client_id=1161496541421391884"><img src="https://dcbadge.limes.pink/api/shield/1161496541421391884?bot=true" alt="" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/aarush-kumar-32a414301/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/kumaraarush/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
 <a target="_blank" href="https://discord.gg/eaEURGYM8S"><img src="https://dcbadge.limes.pink/api/server/eaEURGYM8S" alt="Discord Server Badge" /></a>
 
 ## Table of Contents
@@ -22,7 +22,7 @@ Simply is also multilingual, capable of communicating in over 45 languages. Whet
 
 Discover more about Simply and its features on the [SimplyAI Discord server](https://discord.gg/jDGJms44Cw), where understanding legal terms is made simple.
 
-Created by [Simplify Me](https://simplify-me.com/simply/).
+Created by [Simplify Me](https://simplifyme.org/simply/).
 
 ## Key Features
 
@@ -35,7 +35,7 @@ Created by [Simplify Me](https://simplify-me.com/simply/).
 
 1. Clone the repository:  
 ```
-git clone https://github.com/simplifyme7/Simply.git
+git clone https://github.com/aarushkmalhotra/simply.git
 cd Simply
 ```
 2. Install the required Python libraries:
